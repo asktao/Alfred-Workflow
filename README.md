@@ -5,7 +5,7 @@ Alfred Workflow for developer
 * [Alfred App](https://www.alfredapp.com)
 * [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 
-## [Download](https://github.com/asktao/Alfred-Workflow/releases/download/v0.0.1/Dtools.alfredworkflow)
+## [Download](https://github.com/asktao/Alfred-Workflow/releases/latest)
 
 ## Commands
 * t 
