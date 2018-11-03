@@ -19,5 +19,7 @@ Alfred Workflow for developer
 * base64_encode {query}
 * base64_decode {query}
 
+* unicode {query}
+
 ## Preview
 ![alt text](t.gif)
